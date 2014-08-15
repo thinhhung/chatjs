@@ -2,6 +2,9 @@
 
 A simple chat application using [node.js](http://nodejs.org), [socket.io](http://socket.io), and [mongoDB](http://www.mongodb.org/).
 
+## Live demonstration
+[Run the app on heroku](http://thinhhung-chatjs.herokuapp.com)
+
 ## Installation Instructions
 #### Install Node.js
 ###### Mac
